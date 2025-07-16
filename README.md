@@ -86,8 +86,8 @@ modules/
 ```pawn
 public OnGameModeInit()
 {
-    CreateEmotesPTD(i);
-    CreateEmotesTD();
+    CreateEmotesPTD(playerid);
+    CreateEmotesTD(playerid);
 }
 ```
 
