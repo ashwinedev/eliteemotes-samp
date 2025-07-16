@@ -1,7 +1,7 @@
 /*
     ELiTE Emote System (Fivem inspired emote system for SA-MP) 
 
-    Author: @ashwinedev
+    Author: @ashwinm14
     Version: 1.0
     Date: July 16, 2025
 
