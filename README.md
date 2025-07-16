@@ -21,7 +21,7 @@ Designed with clean UI, categorized browsing, and scrollable emote pages — per
 ## 🛠 Technologies Used
 
 - 🔹 Language: PAWN  
-- 🔹 Command Processor: [y_commands (yCMD)](https://github.com/Zeex/samp-ycmd)  
+- 🔹 Command Processor: y_commands (yCMD) 
 - 🔹 TextDraw UI (Global + Per-player)  
 - 🔹 Struct-based animation storage (`g_AnimDetails` with `e_AnimationStuff`)  
 - 🔹 Modular file design for integration flexibility
@@ -30,7 +30,7 @@ Designed with clean UI, categorized browsing, and scrollable emote pages — per
 
 ## 🧩 Dependency: yCMD Command Processor
 
-This system uses the [`y_commands`](https://github.com/Zeex/samp-ycmd) plugin by Zeex for command handling.
+This system uses the `y_commands` plugin by Zeex for command handling.
 
 ### ➕ What is yCMD?
 
@@ -41,7 +41,6 @@ This system uses the [`y_commands`](https://github.com/Zeex/samp-ycmd) plugin by
 ### 🔧 Installation Steps:
 
 1. Download from GitHub:  
-   👉 https://github.com/Zeex/samp-ycmd
 
 2. Copy the files:
    - `y_commands.inc` → `pawno/includes/`
